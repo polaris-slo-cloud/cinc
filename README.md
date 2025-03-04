@@ -10,10 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
 </p>
 
-Welcome to Orion - The Hunter of the Stars! 🚀  
-Your journey through the cosmos begins now.
+Welcome to CinC 🚀  
 
-## Orion - Distributed Serverless Simulator
+## CinC - Distributed Serverless Simulator
 
 ## Overview
 This project provides an automated script to set up a **distributed serverless simulator** using **LXD containers** and **MicroK8s**. Each node in the cluster runs inside an LXD container and serves as a functional part of the serverless simulation environment. The setup is fully automated, including networking, container initialization, and Kubernetes deployment.
